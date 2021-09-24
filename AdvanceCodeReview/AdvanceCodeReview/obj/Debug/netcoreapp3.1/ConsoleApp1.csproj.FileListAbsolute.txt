@@ -1,5 +1,0 @@
-C:\Users\batem\source\repos\AdvanceCodeReview\AdvanceCodeReview\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
-C:\Users\batem\source\repos\AdvanceCodeReview\AdvanceCodeReview\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\batem\source\repos\AdvanceCodeReview\AdvanceCodeReview\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\batem\source\repos\AdvanceCodeReview\AdvanceCodeReview\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
-C:\Users\batem\source\repos\AdvanceCodeReview\AdvanceCodeReview\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
